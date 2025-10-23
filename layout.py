@@ -1,1 +1,0 @@
-# page layout: margins, image area, scale bars, data box

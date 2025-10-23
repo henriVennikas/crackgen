@@ -1,1 +1,0 @@
-# compute length, width, area, relative area, etc.
